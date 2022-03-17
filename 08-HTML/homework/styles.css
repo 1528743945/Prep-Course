@@ -1,0 +1,17 @@
+Divclass {
+    color: aquamarine;
+}
+
+spanId {
+    margin: 50px;
+    font-size: 18px;
+}
+
+thirdDiv {
+    background-color: darkblue;
+    padding: red;
+    border: 10px green;
+    padding: 50px;
+    height: 600px; 
+    width: 500px;
+}
